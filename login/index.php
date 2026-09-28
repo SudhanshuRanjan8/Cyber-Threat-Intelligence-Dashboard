@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+git pull origin main --allow-unrelated-histories<!DOCTYPE html>
 <html lang="en">
 
 <head>
